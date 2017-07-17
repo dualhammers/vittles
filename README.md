@@ -1,1 +1,1 @@
-A repository for recipes and tricks with food
+Custom recipes, etc.
